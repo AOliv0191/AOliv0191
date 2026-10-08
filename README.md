@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on: ~~finding a job~~ Flappy Bird Game
+- 🔭 I’m currently working on: Website in neocities
 - 🌱 I’m currently learning: C# and Unity
-- 👯 I’m looking to collaborate on: a videogame! (probably a horror game)
+- 👯 I’m looking to collaborate on: a videogame (probably a horror game), or a story
 - 🤔 I’m looking for help with: digital design
 - 😄 Pronouns: anything? I dunno...
 - 🪞 MBTI: INTP
